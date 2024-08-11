@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "packageManager": "pnpm@9.7.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +13,8 @@
     "url": "git+https://github.com/neosjs/github-actions.git"
   },
   "author": "听着情歌流泪",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "pnpm": "^9.7.0"
+  }
 }
