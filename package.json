@@ -1,12 +1,9 @@
 {
   "name": "github-actions",
   "version": "1.0.0",
-  "description": "",
+  "description": "github actions demo",
   "main": "index.js",
   "packageManager": "pnpm@9.7.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "repository": {
     "type": "git",
